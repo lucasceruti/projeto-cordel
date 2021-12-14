@@ -17,7 +17,7 @@
 }
 
 html, body{
-    min-width: 100vh;
+    /* min-width: 100vh; */
     background-color: darkgray;
     font-family: var(--fonte1);
 }
@@ -89,6 +89,7 @@ section#img001{
 }
 
 section#img002{
+    max-width: 100%;
     background-image: url('../imagens/background002.jpg');
 }
 
